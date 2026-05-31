@@ -9,4 +9,4 @@
 4. Zida Fitriana - [25101003]
 
 ### Deskripsi Project:
-Aplikasi ZensDental adalah sistem manajemen antrean dan rekam medis klinik gigi berbasis Java Desktop (GUI) yang terintegrasi dengan database MySQL untuk mengoptimalkan alur pendaftaran pasien umum maupun BPJS.
+Aplikasi ZensDental adalah sistem manajemen antrean dan rekam medis klinik gigi berbasis Java Desktop (GUI) yang terintegrasi dengan database MySQL guna mengoptimalkan alur pendaftaran pasien umum maupun BPJS.
